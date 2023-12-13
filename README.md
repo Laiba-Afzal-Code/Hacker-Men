@@ -1,5 +1,5 @@
 <h1 style="text-align: center">🦄Hacker Men Dashboard</h1>
-<h3 style="text-align: center">This app hack your social paltform so heck your social media channal🎩;)</h3>
+<h3 style="text-align: center">This app hack your social paltform so heck your social media channal🎩</h3>
 <img src="/img/Screenshot (178).png" alt="first user page">
 <p id="description" style="text-align: center">A fully responsive dynamic dashboard UI. Customizable widgets and dynamic positioning.</p>
 <h1>🔥 Features</h1>
@@ -20,4 +20,4 @@
 <h3>✌️Thanks for coming to my app and exploring this web code If you see any mistakes and you think need to improve this app soo let's pull the request with changes!✌️</h3>
 <h5> ⚡Download the repository</h5>
 <h2>Best of Luck!🍀<h2>
-<h2>Laib-Afzal-Code🦹‍♀️<h2>
+<h2>🍁Laiba-Afzal-Code🦹‍♀️<h2>
