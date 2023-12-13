@@ -8,16 +8,16 @@
 3- we created this app by using settimeout and promise and other function check codes for more knowledge!<br>
 4-Like real WebApp of hack<br>
 <h2>Project Screenshots:</h2>
-<p style= "align=center">
-<img src="/img/Screenshot (179).png" alt="project-screenshot" width="100">
-
+<p style= "align=center">🧙‍♂️
+<img src="/img/Screenshot (179).png" alt="project-screenshot">
 </p>
-<p style= "align=center">
-<img src="/img/Screenshot (177).png" alt="project-screenshot" width="240">
+<p style= "align=center">🧝‍♀️
+<img src="/img/Screenshot (177).png" alt="project-screenshot" >
 </p>
-<p style= "align=center">
-<img src="/img/Screenshot (177).png" alt="project-screenshot" width="240">
+<p style= "align=center">🐚
+<img src="/img/Screenshot (177).png" alt="project-screenshot">
 </p>
 <h3>✌️Thanks for coming to my app and exploring this web code If you see any mistakes and you think need to improve this app soo let's pull the request with changes!✌️</h3>
-<p> Download the repository</p>
-<h2>Best of Luck!🍀
+<h5> ⚡Download the repository</h5>
+<h2>Best of Luck!🍀<h2>
+<h2>Laib-Afzal-Code🦹‍♀️<h2>
